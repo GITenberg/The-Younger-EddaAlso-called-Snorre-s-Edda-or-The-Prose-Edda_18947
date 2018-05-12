@@ -44,6 +44,8 @@ description: "The Prose Edda, also known as the Younger Edda, Snorri's Edda (Ice
   \ Edda in 13th century Iceland. At that time, versions of the Edda were well known\
   \ in Iceland, but scholars speculated that there once was an Elder Edda which contained\
   \ the poems which Snorri quotes in his Edda.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18947#The-Younger-EddaAlso-called-Snorre-s-Edda-or-The-Prose-Edda
 gutenberg_issued: '2006-07-31'
 gutenberg_type: Text
 identifiers:
