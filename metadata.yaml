@@ -1,0 +1,107 @@
+_repo: The-Younger-EddaAlso-called-Snorre-s-Edda-or-The-Prose-Edda_18947
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, R. B. (Rasmus Björn)
+    - Anderson, Rasmus Bjorn
+    - Anderson, Rasmus B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snorri Sturluson
+    aliases:
+    - Sturlason, Snorre
+    - Sturluson, Snorri
+    - Sturleson, Snorro
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+description: "The Prose Edda, also known as the Younger Edda, Snorri's Edda (Icelandic:\
+  \ Snorra Edda) or, historically, simply as Edda, is an Old Norse work of literature\
+  \ written in Iceland in the early 13th century. The work is often assumed to have\
+  \ been written, or at least compiled, by the Icelandic scholar, lawspeaker and historian\
+  \ Snorri Sturluson around the year 1220.\nIt begins with a euhemerized Prologue,\
+  \ a section on the Norse cosmogony, pantheon and myths. This is followed by three\
+  \ distinct books: Gylfaginning (consisting of around 20,000 words), Skáldskaparmál\
+  \ (around 50,000 words) and Háttatal (around 20,000 words). Seven manuscripts, dating\
+  \ from around 1300 to around 1600, have independent textual value. Sturluson planned\
+  \ the collection as a textbook. It was to enable Icelandic poets and readers to\
+  \ understand the subtleties of alliterative verse, and to grasp the meaning behind\
+  \ the many kenningar (compounds) that were used in skaldic poetry.\nThe Prose Edda\
+  \ was originally referred to as simply Edda, but was later titled the Prose Edda\
+  \ in modern collections to distinguish it from the collections titled Poetic Edda\
+  \ that are largely based on Codex Regius, a collection of poetry composed after\
+  \ Edda in 13th century Iceland. At that time, versions of the Edda were well known\
+  \ in Iceland, but scholars speculated that there once was an Elder Edda which contained\
+  \ the poems which Snorri quotes in his Edda.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18947'
+  wikidata: Q205882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse'
+- !lcsh 'Scalds and scaldic poetry'
+- !lcc 'PT'
+title: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+url: http://www.gutenberg.org/ebooks/18947
+wikipedia:
+- https://fi.wikipedia.org/wiki/Proosa-Edda
+- https://eo.wikipedia.org/wiki/Proza_Edda
+- https://fr.wikiquote.org/wiki/Edda_de_Snorri
+- https://fa.wikipedia.org/wiki/%D8%A7%D8%AF%D8%A7%DB%8C_%D9%85%D9%86%D8%AB%D9%88%D8%B1
+- https://ko.wikisource.org/wiki/%EC%8B%A0_%EC%97%90%EB%8B%A4
+- https://lt.wikipedia.org/wiki/Jaunesnioji_Eda
+- https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%88%D0%B0_%D0%95%D0%B4%D0%B4%D0%B0
+- https://el.wikipedia.org/wiki/%CE%9D%CE%B5%CF%8E%CF%84%CE%B5%CF%81%CE%B7_%CE%88%CE%BD%CF%84%CE%B1
+- https://gl.wikipedia.org/wiki/Edda_prosaica
+- https://az.wikipedia.org/wiki/Ki%C3%A7ik_Edda
+- https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8E%E3%83%83%E3%83%AA%E3%81%AE%E3%82%A8%E3%83%83%E3%83%80
+- https://nn.wikipedia.org/wiki/Den_yngre_Edda
+- https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B7%D0%BD%D0%B0_%D0%B5%D0%B4%D0%B0
+- https://es.wikipedia.org/wiki/Edda_prosaica
+- https://sco.wikipedia.org/wiki/Prose_Edda
+- https://en.wikipedia.org/wiki/Prose_Edda
+- https://is.wikisource.org/wiki/Snorra_Edda
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%B0%D0%B4%D1%88%D0%B0%D1%8F_%D0%AD%D0%B4%D0%B4%D0%B0
+- https://ko.wikipedia.org/wiki/%EC%8B%A0_%EC%97%90%EB%8B%A4
+- https://et.wikipedia.org/wiki/Noorem_Edda
+- https://fr.wikipedia.org/wiki/Edda_de_Snorri
+- https://zh.wikipedia.org/wiki/%E6%95%A3%E6%96%87%E5%9F%83%E9%81%94
+- https://no.wikipedia.org/wiki/Den_yngre_Edda
+- https://pl.wikipedia.org/wiki/Edda_m%C5%82odsza
+- https://da.wikipedia.org/wiki/Yngre_Edda
+- https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%B4%D1%88%D0%B0%D1%8F_%D0%AD%D0%B4%D0%B0
+- https://sv.wikipedia.org/wiki/Snorres_Edda
+- https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%B4%D1%88%D0%B0%D1%8F_%D0%AD%D0%B4%D0%B0
+- https://hu.wikipedia.org/wiki/Pr%C3%B3zai_Edda
+- https://is.wikipedia.org/wiki/Snorra-Edda
+- https://nl.wikipedia.org/wiki/Proza-Edda
+- https://pt.wikipedia.org/wiki/Edda_em_prosa
+- https://sl.wikipedia.org/wiki/Prozna_Edda
+- https://cs.wikipedia.org/wiki/Prozaick%C3%A1_Edda
+- https://de.wikipedia.org/wiki/Snorra-Edda
+- https://lv.wikipedia.org/wiki/Jaun%C4%81k%C4%81_Eda
+- https://eu.wikipedia.org/wiki/Edda_prosaikoa
+- https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B7%D0%B0%D0%B8%D1%87%D0%BD%D0%B0_%D0%95%D0%B4%D0%B0
+- https://mdf.wikipedia.org/wiki/%D0%9E%D0%B4_%D0%AD%D0%B4%D0%B4%D0%B0
+- https://it.wikipedia.org/wiki/Edda_in_prosa
+- https://br.wikipedia.org/wiki/Edda_e_komz-plaen
+- https://la.wikipedia.org/wiki/Edda_(Snorri)
+- https://hr.wikipedia.org/wiki/Mla%C4%91a_Edda
+- https://ca.wikipedia.org/wiki/Edda_prosaica
+- https://he.wikipedia.org/wiki/%D7%90%D7%93%D7%94_%D7%A4%D7%A8%D7%95%D7%96%D7%90%D7%99%D7%AA
